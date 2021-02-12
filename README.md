@@ -19,4 +19,4 @@ This code allows coupling MoorDyn to SIMPACK in order to model Floating Offshore
 email: mahfouz@ifb.uni-stuttgart.de
 
 ## License:
-Licensed under [MIT License](LICENSE)
+Licensed under the [MIT License](LICENSE)
