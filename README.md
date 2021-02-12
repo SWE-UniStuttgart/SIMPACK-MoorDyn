@@ -1,6 +1,6 @@
 # SIMPACK-MoorDyn
 ## Introduction
-This code allows coupling MoorDyn to SIMPACK in order to model Floating Offshore Wind Turbine. FOWTs 15 MW reference models of WindCrete and Activefloat platforms are used as examples.
+This MATLAB code allows MoorDyn to be coupled to SIMPACK in order to model a floating offshore wind turbine (FOWT). The 15-MW FOWT reference models of [WindCrete](https://zenodo.org/record/4322446) and [Activefloat](https://zenodo.org/record/4322585) are used as examples.
 
 
 ## Dependencies
