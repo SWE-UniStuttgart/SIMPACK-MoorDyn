@@ -20,3 +20,4 @@ email: mahfouz@ifb.uni-stuttgart.de
 
 ## License:
 Licensed under the [MIT License](LICENSE)
+[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](LICENSE)
