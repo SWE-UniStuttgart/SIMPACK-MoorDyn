@@ -1,6 +1,6 @@
 # SIMPACK-MoorDyn
 ## Introduction
-This code can be used to couple MoorDyn to SIMPACK in order to simulation Floating Offshore Wind Turbine (FOWT) reference models of Activefloat and WindCrete.
+This code allows coupling MoorDyn to SIMPACK in order to simulation Floating Offshore Wind Turbine (FOWT) reference models of Activefloat and WindCrete.
 
 
 ## Dependencies
